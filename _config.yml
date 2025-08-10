@@ -80,12 +80,17 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Articles de journaux'    
-  conferences:
-    title: 'Articles de conférences'
+  thesis:     { title: "Thèses" }
+  journal:    { title: "Articles de journaux" }
+  conference: { title: "Articles de conférences" }
+
+scholar:
+  source: files
+  style: apa
+  locale: fr
+  sort_by: year
+  order: descending
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
