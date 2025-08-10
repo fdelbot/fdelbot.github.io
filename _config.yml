@@ -26,20 +26,20 @@ author:
   name             : "François Delbot"
   pronouns         : # example: "she/her"  
   bio              : "Maître de conférences"
-  location         : "Earth"
-  employer         : "Université de Nanterre<br>LIP6"
+  location         : #"Earth"
+  employer         : "Université de Nanterre / LIP6"
   uri              : # URL
   email            : "francois.delbot@parisnanterre.fr" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Delbot%2C+F"# URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=u9tjZr0AAAAJ&hl=fr&oi=sra"
+  arxiv            : #"https://arxiv.org/search/?searchtype=author&query=Delbot%2C+F"# URL - Update with the correct link to your profile
+  googlescholar    : #"https://scholar.google.com/citations?user=u9tjZr0AAAAJ&hl=fr&oi=sra"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6157-2788"
+  orcid            : #"https://orcid.org/0000-0002-6157-2788"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=delbot"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=delbot"
   researchgate     : "https://www.researchgate.net/profile/Francois-Delbot"# URL
   scopus           : # URL
 
