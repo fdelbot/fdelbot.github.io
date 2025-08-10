@@ -11,13 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "Enseignements"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "De beaux graphes"
     url: /portfolio/
         
   - title: "Blog Posts"
