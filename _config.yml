@@ -54,7 +54,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/francois.delbot.9"# Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fran%C3%A7ois-delbot-39508160/"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://youtube.com/channel/UCOf4mry7OEM3Pal-4w0Bnpw/Fran%C3%A7oisDelbot?si=HIRh2VmVOJPckb_t"# Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
