@@ -38,15 +38,45 @@ Ces trois axes ne fonctionnent pas en silos :
 - les **expériences** alimentent la réflexion théorique et révèlent des phénomènes inattendus,  
 - les **applications** fournissent des cas réels qui testent la robustesse des modèles et guident l’orientation des recherches fondamentales.
 
-## Parcours universitaire
+## Projets de recherche actuels
 
-Après un **Master 2 Recherche** en Modèles, Optimisation, Programmation et Services à l’Université d’Évry-Val d’Essonne, j’ai réalisé une **thèse d’informatique** au sein du laboratoire IBISC (Université d’Évry-Val d’Essonne), sous la direction de Christian Laforest.  
-Titre : *Au-delà de l'évaluation en pire cas : comparaison et évaluation en moyenne de processus d'optimisation pour le problème du vertex cover et des arbres de connexion de groupes dynamiques*  
-Soutenue le 17 novembre 2009, mention très honorable.
+Je développe actuellement des travaux mêlant **optimisation combinatoire**, **modèles de langage (LLM)** et **apprentissage automatique**, avec plusieurs orientations :
 
-## Premières expériences
+### Optimisation combinatoire et LLM
+J’explore l’intégration des **modèles de langage (LLM)** dans les processus d’optimisation combinatoire, notamment pour :  
+- Guider des métaheuristiques (ex. sélection dynamique d’opérateurs de mutation ou de recherche locale).  
+- Générer de nouvelles idées de voisinages ou de stratégies de diversification.  
+- Évaluer la pertinence de solutions intermédiaires dans un processus itératif.
 
-- 2009–2010 : **ATER** (demi-poste) à l’Université d’Évry-Val d’Essonne.  
-- 2010–2011 : **Post-doctorat** au LATP (UMR 6632 CNRS – Université de Provence), financé par l’ANR Boole, sur des thématiques mêlant optimisation et combinatoire.
+### Agents pour l’exploration scientifique
+Conception d’agents capables de :
+1. Parcourir automatiquement la littérature scientifique en **théorie des graphes**.  
+2. Identifier des conjectures.  
+3. Tenter de les invalider par génération automatique de contre-exemples.  
+
+Ces agents utilisent mes méthodes développées en collaboration avec **Thibault Anani**, combinant heuristiques évolutives et analyse structurelle de graphes.
+
+### LLM pour la génération de fonctions de score
+Une piste émergente consiste à utiliser les LLM pour **concevoir automatiquement des fonctions de score** destinées aux métaheuristiques.  
+Plutôt que de se limiter à des critères classiques (taille de la solution, contraintes respectées, etc.), l’idée est de :
+- Décrire le problème et les objectifs à un LLM.  
+- Laisser le modèle proposer des formules de score, éventuellement inédites, combinant plusieurs indicateurs.  
+- Évaluer ces fonctions sur un ensemble d’instances, puis affiner leur formulation en boucle fermée avec le LLM.
+
+Cette approche ouvre la voie à une **co-création humain–IA** des critères d’évaluation, potentiellement plus adaptés aux caractéristiques réelles des instances traitées.
+
+---
+
+## Opportunités de collaboration
+
+Je suis ouvert aux **partenariats avec le monde industriel** pour explorer des applications de mes recherches.  
+Quelques domaines où une collaboration pourrait être fructueuse :
+
+- Analyse et optimisation de réseaux complexes (logistique, télécommunications, énergie).  
+- Détection automatique de motifs ou d’anomalies dans de grands volumes de données.  
+- Outils d’aide à la décision combinant optimisation et IA explicable.  
+- Automatisation de la veille scientifique ou technologique via agents intelligents.
+
+**N’hésitez pas à me contacter pour échanger sur des projets de recherche, de transfert technologique, ou de co-encadrement de thèses CIFRE.**  
 
 
