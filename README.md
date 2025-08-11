@@ -23,3 +23,4 @@ Depuis 2011, je partage mon temps entre l’enseignement, la recherche et divers
 - le développement de projets de recherche interdisciplinaires,
 - l’encadrement doctoral,
 - la mise en place d’innovations pédagogiques accessibles à tous les étudiants.
+
