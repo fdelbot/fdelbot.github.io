@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "François Delbot"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# François Delbot
 
 Je suis **Maître de conférences** à l'Université Paris Nanterre (Paris 10) depuis 2011, rattaché à l’équipe **Recherche Opérationnelle** (RO) du LIP6. Mon parcours mêle **théorie des graphes**, **recherche opérationnelle** et **intelligence artificielle**, avec des applications allant des problématiques médicales aux réseaux de collaboration européens.
 
