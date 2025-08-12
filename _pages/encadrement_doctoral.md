@@ -30,6 +30,17 @@ Nadine LEVRATTO — Présidente — Directrice de recherche CNRS — Université
 Corinne AUTANT-BERNARD — Rapporteure — Professeure des universités — Université de Saint-Étienne  
 Emmanuel DUGUET — Rapporteur — Professeur des universités — Université Paris-Est Créteil  
 Angelo SECCHI — Examinateur — Professeur des universités — Université Paris 1 Panthéon-Sorbonne  
+| Nom | Rôle | Fonction | Institution |
+|-----|------|----------|-------------|
+| Lionel RAGOT | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
+| François DELBOT | Co-encadrant académique | Maître de conférences | Université Paris Nanterre, LIP6 |
+| Gaétan LE CHAT | Co-encadrant industriel | Chef de projet R&D | FRS Consulting |
+| Nadine LEVRATTO | Présidente | Directrice de recherche CNRS | Université Paris Nanterre, EconomiX |
+| Corinne AUTANT-BERNARD | Rapporteure | Professeure des universités | Université de Saint-Étienne |
+| Emmanuel DUGUET | Rapporteur | Professeur des universités | Université Paris-Est Créteil |
+| Angelo SECCHI | Examinateur | Professeur des universités | Université Paris 1 Panthéon-Sorbonne |
+
+
 
 **Poursuite professionnelle :**  
 Après 3 ans au Ministère de l’Économie et des Finances (évaluation des politiques publiques), Kymble est désormais Économiste-économètre chez Bpifrance.
@@ -56,6 +67,15 @@ Emmanuelle ENCRENAZ — Présidente — Professeure des universités — Sorbonn
 Pierre-François PRADAT — Examinateur — Praticien Hospitalier, HDR — Hôpital de la Pitié-Salpêtrière, LIB  
 Hélène BLASCO — Rapporteure — PU–PH — CHU de Tours, iBrain  
 Patrice BERTAIL — Rapporteur — Professeur des universités — Université Paris Nanterre, MODAL’X  
+| Nom | Rôle | Fonction | Institution |
+|-----|------|----------|-------------|
+| Jean-François PRADAT-PEYRE | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
+| François DELBOT | Co-encadrant académique | Maître de conférences | Université Paris Nanterre, LIP6 |
+| Gaétan LE CHAT | Co-encadrant industriel | Chef de projet R&D | FRS Consulting |
+| Emmanuelle ENCRENAZ | Présidente du jury | Professeure des universités | Sorbonne Université, LIP6 |
+| Pierre-François PRADAT | Examinateur | Praticien Hospitalier, HDR | Hôpital de la Pitié-Salpêtrière, LIB |
+| Hélène BLASCO | Rapporteure | PU – PH | CHU de Tours, iBrain |
+| Patrice BERTAIL | Rapporteur | Professeur des universités | Université Paris Nanterre, MODAL'X |
 
 **Poursuite professionnelle :**  
 Expert en Intelligence Artificielle et Cheminformatique chez Bayer.
@@ -83,6 +103,16 @@ Tinaz EKIM — Rapporteure — Professeure des universités — Université du B
 Bernard RIES — Rapporteur — Professeur des universités — Université de Fribourg  
 Denis CORNAZ — Examinateur — Maître de conférences — Université Paris-Dauphine, LAMSADE  
 Dimitri WATEL — Examinateur — Enseignant-Chercheur — ENSIIE, SAMOVAR  
+| Nom | Rôle | Fonction | Institution |
+|-----|------|----------|-------------|
+| Christophe PICOULEAU | Directeur de thèse | Professeur des universités | CNAM, Cédric |
+| François DELBOT | Co-encadrant | Maître de conférences | Université Paris Nanterre, LIP6 |
+| Stéphane ROVEDAKIS | Co-encadrant | Maître de conférences | CNAM, Cédric |
+| Claire HANEN | Présidente | Professeure des universités | Université Paris Nanterre, LIP6 |
+| Tinaz EKIM | Rapporteure | Professeure des universités | Université du Bosphore, Istanbul, Turquie |
+| Bernard RIES | Rapporteur | Professeur des universités | Université de Fribourg, Suisse |
+| Denis CORNAZ | Examinateur | Maître de conférences | Université Paris-Dauphine, LAMSADE |
+| Dimitri WATEL | Examinateur | Enseignant-Chercheur | ENSIIE, SAMOVAR |
 
 **Poursuite professionnelle :**  
 Depuis septembre 2023, maître de conférences en informatique à l'Université Paris Nanterre, rattaché au LIP6 (équipe RO).
@@ -109,6 +139,15 @@ Zacharie ALES — Rapporteur — Maître de conférences, HDR — ENSTA, UMA
 Pierre-François PRADAT — Examinateur — Praticien Hospitalier, HDR — Hôpital de la Pitié-Salpêtrière, LIB  
 Claire HANEN — Examinatrice — Professeure des universités — Université Paris Nanterre, LIP6  
 Marta RUKOZ — Examinatrice — Professeure des universités — Université Paris Nanterre, LAMSADE  
+| Nom | Rôle | Fonction | Institution |
+|-----|------|----------|-------------|
+| Jean-François PRADAT-PEYRE | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
+| François DELBOT | Co-encadrant académique | Maître de conférences | Université Paris Nanterre, LIP6 |
+| Hélène BLASCO | Rapporteure | PU – PH | CHU de Tours, iBrain |
+| Zacharie ALES | Rapporteur | Maître de conférences, HDR | ENSTA, UMA |
+| Pierre-François PRADAT | Examinateur | Praticien Hospitalier, HDR | Hôpital de la Pitié-Salpêtrière, LIB |
+| Claire HANEN | Examinatrice | Professeure des universités | Université Paris Nanterre, LIP6 |
+| Marta RUKOZ | Examinatrice | Professeure des universités | Université Paris Nanterre, LAMSADE |
 
 **Poursuite professionnelle :**  
 Thibault souhaite rejoindre l’industrie pour poursuivre ses travaux de recherche.
