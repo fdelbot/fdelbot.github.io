@@ -3,11 +3,7 @@ permalink: /encadrement-doctoral/
 title: "Encadrement doctoral"
 author_profile: true
 ---
-Voici le contenu de ma nouvelle page.
-Au cours de ma carrière, j'ai encadré quatre thèses de doctorat : deux réalisées dans le cadre d'une convention CIFRE en partenariat avec l'entreprise [FRS Consulting](https://www.frsconsulting.fr/), et deux thèses académiques financées sur contrat doctoral ministériel.
-
-![Historique des thèses encadrées](images/schema_theses.pdf)
-*Figure — Historique des thèses encadrées : à partir d'une proposition de recrutement initial (me concernant) de l’entreprise FRS Consulting, deux thèses CIFRE ont été créées, chacune ayant donné lieu par la suite à une thèse académique. Le schéma illustre l’articulation entre partenariat industriel et dynamique académique.*
+Pour l'instant, j'ai encadré quatre thèses de doctorat : deux réalisées dans le cadre d'une convention CIFRE en partenariat avec l'entreprise [FRS Consulting](https://www.frsconsulting.fr/), et deux thèses académiques financées sur contrat doctoral ministériel.
 
 ---
 
