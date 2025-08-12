@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Doctorants"
+    url: /encadrement-doctoral/
+
   - title: "Enseignements"
     url: /teaching/    
     
