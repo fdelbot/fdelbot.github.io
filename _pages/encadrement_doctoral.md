@@ -23,13 +23,7 @@ Au cours de ma carrière, j'ai encadré quatre thèses de doctorat : deux réali
 - **Dates :** 03/10/2016 — 16/12/2019  
 
 **Jury :**  
-Lionel RAGOT — Directeur de thèse — Professeur des universités — Université Paris Nanterre, LIP6  
-François DELBOT — Co-encadrant académique — Maître de conférences — Université Paris Nanterre, LIP6  
-Gaétan LE CHAT — Co-encadrant industriel — Chef de projet R&D — FRS Consulting  
-Nadine LEVRATTO — Présidente — Directrice de recherche CNRS — Université Paris Nanterre, EconomiX  
-Corinne AUTANT-BERNARD — Rapporteure — Professeure des universités — Université de Saint-Étienne  
-Emmanuel DUGUET — Rapporteur — Professeur des universités — Université Paris-Est Créteil  
-Angelo SECCHI — Examinateur — Professeur des universités — Université Paris 1 Panthéon-Sorbonne  
+
 | Nom | Rôle | Fonction | Institution |
 |-----|------|----------|-------------|
 | Lionel RAGOT | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
@@ -60,13 +54,7 @@ Cette thèse propose d’utiliser un cadre empirique pour évaluer la politique 
 - **Dates :** 02/11/2017 — 25/06/2021  
 
 **Jury :**  
-Jean-François PRADAT-PEYRE — Directeur de thèse — Professeur des universités — Université Paris Nanterre, LIP6  
-François DELBOT — Co-encadrant académique — Maître de conférences — Université Paris Nanterre, LIP6  
-Gaétan LE CHAT — Co-encadrant industriel — Chef de projet R&D — FRS Consulting  
-Emmanuelle ENCRENAZ — Présidente — Professeure des universités — Sorbonne Université, LIP6  
-Pierre-François PRADAT — Examinateur — Praticien Hospitalier, HDR — Hôpital de la Pitié-Salpêtrière, LIB  
-Hélène BLASCO — Rapporteure — PU–PH — CHU de Tours, iBrain  
-Patrice BERTAIL — Rapporteur — Professeur des universités — Université Paris Nanterre, MODAL’X  
+
 | Nom | Rôle | Fonction | Institution |
 |-----|------|----------|-------------|
 | Jean-François PRADAT-PEYRE | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
@@ -95,14 +83,7 @@ Les modèles d'apprentissage supervisé sont généralement entraînés sur des 
 - **Dates :** 01/09/2019 — 10/11/2022  
 
 **Jury :**  
-Christophe PICOULEAU — Directeur de thèse — Professeur des universités — CNAM, Cédric  
-François DELBOT — Co-encadrant — Maître de conférences — Université Paris Nanterre, LIP6  
-Stéphane ROVEDAKIS — Co-encadrant — Maître de conférences — CNAM, Cédric  
-Claire HANEN — Présidente — Professeure des universités — Université Paris Nanterre, LIP6  
-Tinaz EKIM — Rapporteure — Professeure des universités — Université du Bosphore, Istanbul  
-Bernard RIES — Rapporteur — Professeur des universités — Université de Fribourg  
-Denis CORNAZ — Examinateur — Maître de conférences — Université Paris-Dauphine, LAMSADE  
-Dimitri WATEL — Examinateur — Enseignant-Chercheur — ENSIIE, SAMOVAR  
+
 | Nom | Rôle | Fonction | Institution |
 |-----|------|----------|-------------|
 | Christophe PICOULEAU | Directeur de thèse | Professeur des universités | CNAM, Cédric |
@@ -132,13 +113,7 @@ Cette thèse porte sur des problèmes et des questions de la théorie et de l'al
 - **Dates :** 01/09/2021 — 11/09/2025  
 
 **Jury :**  
-Jean-François PRADAT-PEYRE — Directeur de thèse — Professeur des universités — Université Paris Nanterre, LIP6  
-François DELBOT — Co-encadrant académique — Maître de conférences — Université Paris Nanterre, LIP6  
-Hélène BLASCO — Rapporteure — PU–PH — CHU de Tours, iBrain  
-Zacharie ALES — Rapporteur — Maître de conférences, HDR — ENSTA, UMA  
-Pierre-François PRADAT — Examinateur — Praticien Hospitalier, HDR — Hôpital de la Pitié-Salpêtrière, LIB  
-Claire HANEN — Examinatrice — Professeure des universités — Université Paris Nanterre, LIP6  
-Marta RUKOZ — Examinatrice — Professeure des universités — Université Paris Nanterre, LAMSADE  
+  
 | Nom | Rôle | Fonction | Institution |
 |-----|------|----------|-------------|
 | Jean-François PRADAT-PEYRE | Directeur de thèse | Professeur des universités | Université Paris Nanterre, LIP6 |
